@@ -6,4 +6,4 @@
 2. Open "Terminal" and cd to your "anywhere"
 3. run **python3 openclaw_cleaner_gui.py**
 
-3.1 or, you just run **sudo ./remove_openclaw_macos.py**
+3.1 or, you just run *chmod +x remove_openclaw_macos.py**, and then **./remove_openclaw_macos.py**
